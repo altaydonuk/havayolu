@@ -1,0 +1,52 @@
+C:\Users\Almıla\Desktop\havalimani\havalimani\bin\Debug\net6.0-windows\havalimani.exe
+C:\Users\Almıla\Desktop\havalimani\havalimani\bin\Debug\net6.0-windows\havalimani.deps.json
+C:\Users\Almıla\Desktop\havalimani\havalimani\bin\Debug\net6.0-windows\havalimani.runtimeconfig.json
+C:\Users\Almıla\Desktop\havalimani\havalimani\bin\Debug\net6.0-windows\havalimani.dll
+C:\Users\Almıla\Desktop\havalimani\havalimani\bin\Debug\net6.0-windows\havalimani.pdb
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.csproj.AssemblyReference.cache
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form1.resources
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Properties.Resources.resources
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.csproj.GenerateResource.cache
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.AssemblyInfoInputs.cache
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.AssemblyInfo.cs
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.csproj.CoreCompileInputs.cache
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.dll
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\refint\havalimani.dll
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.pdb
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.genruntimeconfig.cache
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\ref\havalimani.dll
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form2.resources
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form3.resources
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form4.resources
+C:\Users\Almıla\Desktop\havalimani\havalimani\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Almıla\Desktop\havalimani\havalimani\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.csproj.CopyComplete
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form5.resources
+C:\Users\Almıla\Desktop\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form6.resources
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\bin\Debug\net6.0-windows\havalimani.exe
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\bin\Debug\net6.0-windows\havalimani.deps.json
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\bin\Debug\net6.0-windows\havalimani.runtimeconfig.json
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\bin\Debug\net6.0-windows\havalimani.dll
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\bin\Debug\net6.0-windows\havalimani.pdb
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.csproj.AssemblyReference.cache
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form1.resources
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form2.resources
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form3.resources
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form4.resources
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form5.resources
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Form6.resources
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.Properties.Resources.resources
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.csproj.GenerateResource.cache
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.AssemblyInfoInputs.cache
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.AssemblyInfo.cs
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.csproj.CoreCompileInputs.cache
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.csproj.CopyComplete
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.dll
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\refint\havalimani.dll
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.pdb
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\havalimani.genruntimeconfig.cache
+C:\Users\Almıla\Desktop\okul\3. sınıf\VERİTABANI YÖNETİM SİSTEMLERİ\havalimani\havalimani\obj\Debug\net6.0-windows\ref\havalimani.dll
